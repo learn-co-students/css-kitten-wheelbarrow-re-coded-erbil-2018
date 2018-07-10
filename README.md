@@ -13,7 +13,7 @@ Help collect all the kittens into the wheelbarrow using CSS selectors.
 
 1. Fork this repository.
 2. Clone your fork locally.
-3. `cd` into the local repo you just cloned.
+3. `cd` into the local repo you just cloned
 
 ## Process
 
